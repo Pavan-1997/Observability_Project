@@ -27,3 +27,8 @@ k get svc -A
 Jaegar
 
 ![image](https://github.com/user-attachments/assets/f9526876-f982-4c30-8d9a-951a70808618)
+
+
+Grafana
+
+![image](https://github.com/user-attachments/assets/ea3f629a-b298-43fd-811f-190601e23d7d)
